@@ -33,22 +33,6 @@
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
-
-```bash
-┌──(tools㉿kali)-[~/arsenal]
-└─$ ./load_tools.sh
-```
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
-![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge\&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-000?style=for-the-badge\&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/Metasploit-000?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge)
-
----
-
 ## 📂 Proyectos
 
 ```bash
@@ -56,22 +40,8 @@
 └─$ tree
 ```
 
-📌 Fuerza bruta a formularios web (ético)
-📌 Simulador de ataques SSH
-📌 Auditor de contraseñas
-📌 Análisis de tráfico en redes
-
----
-
-## 📊 Estadísticas
-
-```bash
-┌──(stats㉿github)-[~/data]
-└─$ fetch_metrics
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+📌 Fuerza bruta a formularios web y WiFi (ético)
+📌 UNI-SecureDroid
 
 ---
 
@@ -82,7 +52,6 @@
 └─$ nc contact.me 443
 ```
 
-📫 Email: [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)
 🌐 LinkedIn: https://linkedin.com/in/tu_usuario
 
 ---
@@ -97,6 +66,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
-</p>
