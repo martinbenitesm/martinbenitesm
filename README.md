@@ -5,7 +5,7 @@
 # 🕶️ `> whoami`
 
 ```bash
-> Initializing profile...
+> Iniciando perfil...
 > Access granted ✔
 ```
 
