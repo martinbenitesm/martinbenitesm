@@ -2,17 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=AC1EC9&center=true&vCenter=true&width=800&lines=Iniciando+Inteligencia+contra+Amenazas...;Monitoreando+eventos+de+seguridad...;Analizando+logs+en+tiempo+real...;Detectando+intrusiones+activas...;Analista+SOC+%7C+Blue+Team+%7C+Incident+Responder" />
 </p>
 
-# 👤 Sobre mí
+## 👤 Sobre mí
 
 ```bash
 ┌──(root㉿user)-[~/cybersec]
 └─$ cat about_me.txt
 ```
 
-🎓 Estudiante de Ingeniería de Ciberseguridad
-🔐 Apasionado por la seguridad ofensiva y defensiva
-🧠 En constante aprendizaje de vulnerabilidades y explotación
-🛠️ Desarrollo herramientas para pentesting y análisis
+* 🎓 Estudiante de Ingeniería de Ciberseguridad
+* 🔐 Apasionado por la seguridad defensiva y ofensiva
+* 🧠 En constante aprendizaje de nuevas técnicas
+* 🛠️ Desarrollo herramientas para análisis de seguridad
 
 ---
 
@@ -51,7 +51,7 @@
 └─$ nc contact.me 443
 ```
 
-🌐 LinkedIn: https://linkedin.com/in/tu_usuario
+🌐 LinkedIn: www.linkedin.com/in/martin-alberto-benites-marin-13b7b32aa
 
 ---
 
