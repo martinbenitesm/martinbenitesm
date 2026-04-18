@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=Cybersecurity+student;loading+exploits...;accessing+target...;CTF+mode+activated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=AC1EC9&center=true&vCenter=true&width=800&lines=Iniciando+Inteligencia+contra+Amenazas...;Monitoreando+eventos+de+seguridad...;Analizando+logs+en+tiempo+real...;Detectando+intrusiones+activas...;Analista+SOC+%7C+Blue+Team+%7C+Incident+Responder" />
 </p>
 
 # 👤 Sobre mí
@@ -11,7 +11,6 @@
 
 🎓 Estudiante de Ingeniería de Ciberseguridad
 🔐 Apasionado por la seguridad ofensiva y defensiva
-⚡ Jugador activo de CTFs (Capture The Flag)
 🧠 En constante aprendizaje de vulnerabilidades y explotación
 🛠️ Desarrollo herramientas para pentesting y análisis
 
@@ -24,12 +23,12 @@
 └─$ ls -la
 ```
 
-* 🕵️‍♂️ Pentesting Web
-* 💣 Explotación de vulnerabilidades
 * 🌐 Seguridad de redes
 * 🔎 Análisis de tráfico
 * 🧬 Reverse Engineering
 * 🛡️ Blue Team / SOC
+* 🕵️‍♂️ Pentesting Web
+* 💣 Explotación de vulnerabilidades
 
 ---
 
