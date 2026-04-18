@@ -2,14 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=Cybersecurity+student;loading+exploits...;accessing+target...;CTF+mode+activated" />
 </p>
 
-# 🕶️ `> whoami`
-
-```bash
-> Iniciando perfil...
-> Access granted ✔
-```
-
-## 👤 Sobre mí
+# 👤 Sobre mí
 
 ```bash
 ┌──(root㉿user)-[~/cybersec]
