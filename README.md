@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=AC1EC9&center=true&vCenter=true&width=800&lines=Iniciando+Inteligencia+contra+Amenazas...;Monitoreando+eventos+de+seguridad...;Analizando+logs+en+tiempo+real...;Detectando+intrusiones+activas...;Analista+SOC+%7C+Blue+Team+%7C+Incident+Responder" />
 </p>
 
-## 👤 Sobre mí
+# Sobre mí
 
 ```bash
 ┌──(root㉿user)-[~/cybersec]
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚔️ Áreas de interés
+# Áreas de interés
 
 ```bash
 ┌──(skills㉿matrix)-[~/knowledge]
@@ -32,7 +32,7 @@
 
 ---
 
-## 📂 Proyectos
+# Proyectos
 
 ```bash
 ┌──(projects㉿lab)-[~/repos]
@@ -49,18 +49,7 @@
 
 ---
 
-## 📡 Conexión
-
-```bash
-┌──(connect㉿net)-[~/channels]
-└─$ nc contact.me 443
-```
-
-🌐 LinkedIn: www.linkedin.com/in/martin-alberto-benites-marin-13b7b32aa
-
----
-
-## ☠️ Estado actual
+# Estado actual
 
 ```bash
 > System status: ACTIVE
