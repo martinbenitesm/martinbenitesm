@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=AC1EC9&center=true&vCenter=true&width=800&lines=Iniciando+Inteligencia+contra+Amenazas...;Monitoreando+eventos+de+seguridad...;Analizando+logs+en+tiempo+real...;Detectando+intrusiones+activas..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=F527D6&center=true&vCenter=true&width=800&lines=Iniciando+Inteligencia+contra+Amenazas...;Monitoreando+eventos+de+seguridad...;Analizando+logs+en+tiempo+real...;Detectando+intrusiones+activas..." />
 </p>
 
 # Sobre mí
