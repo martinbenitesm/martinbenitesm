@@ -39,9 +39,13 @@
 └─$ tree
 ```
 
-📌 CyberDoctrine
 📌 UNI-SecureDroid
-📌 Fuerza bruta a formularios web y WiFi (ético)
+📌 BlueTeamOps
+📌 RedTeamOps
+📌 Framework de ML Híbrido para Industria 4.0
+📌 SIEM Log Monitoring & Threat Detection
+📌 CyberDoctrine
+📌 Prototipo de IDS basado en IA y Blockchain para Industria 4.0
 
 ---
 
