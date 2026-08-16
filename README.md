@@ -10,9 +10,11 @@
 ```
 
 * 🎓 Estudiante de Ingeniería de Ciberseguridad
-* 🔐 Apasionado por la seguridad defensiva y ofensiva
-* 🧠 En constante aprendizaje de nuevas técnicas
-* 🛠️ Desarrollo herramientas para análisis de seguridad
+* 🛡️ Orientado a Blue Team, SOC y seguridad defensiva
+* 📊 Interesado en gobernanza, gestión de riesgos y cumplimiento
+* 🔎 Enfocado en monitoreo, análisis y respuesta ante incidentes
+* 🧠 En constante aprendizaje de nuevas tecnologías y técnicas de ciberseguridad
+* ⚙️ Desarrollo herramientas para automatización y análisis de seguridad
 
 ---
 
@@ -22,14 +24,14 @@
 ┌──(skills㉿matrix)-[~/knowledge]
 └─$ ls -la
 ```
-
-* 🌐 Seguridad de redes
-* 🔎 Análisis de tráfico
-* 🧬 Reverse Engineering
 * 🛡️ Blue Team / SOC
-* 🕵️‍♂️ Pentesting Web
-* 💣 Explotación de vulnerabilidades
-
+* 🔎 Threat Hunting y análisis de amenazas
+* 🚨 Detección y respuesta ante incidentes
+* 🌐 Seguridad de redes y análisis de tráfico
+* 📋 Gobernanza y gestión de la seguridad de la información
+* ⚖️ Gestión de riesgos y cumplimiento
+* 🔐 Seguridad de sistemas e infraestructura
+* 🤖 Inteligencia Artificial aplicada a la Ciberseguridad
 ---
 
 # Proyectos
