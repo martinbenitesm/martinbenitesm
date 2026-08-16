@@ -49,6 +49,35 @@
 📌 TerraSense IoT
 
 ---
+# Herramientas
+
+### Sistemas Operativos
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark&perline=6)
+![Kali Linux](https://skillicons.dev/icons?i=kali&theme=dark&perline=6)
+![Debian](https://skillicons.dev/icons?i=debian&theme=dark&perline=6)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=6)
+![Windows](https://skillicons.dev/icons?i=windows&theme=dark&perline=6)
+
+### Programación
+![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=6)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark&perline=6)
+![Bash](https://skillicons.dev/icons?i=bash&theme=dark&perline=6)
+![C](https://skillicons.dev/icons?i=c&theme=dark&perline=6)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark&perline=6)
+![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark&perline=6)
+
+### Desarrollo
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&theme=dark&perline=6)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark&perline=6)
+![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=6)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark&perline=6)
+![Pycharm](https://skillicons.dev/icons?i=pycharm&theme=dark&perline=6)
+![VScode](https://skillicons.dev/icons?i=vscode&theme=dark&perline=6)
+
+### Cloud Computing
+![Azure](https://skillicons.dev/icons?i=azure&theme=dark&perline=6)
+
+---
 
 # Estado actual
 
@@ -59,4 +88,5 @@
 ```
 
 ---
+
 
