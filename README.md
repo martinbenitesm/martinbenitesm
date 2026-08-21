@@ -82,6 +82,9 @@
 ![Aws](https://skillicons.dev/icons?i=aws&theme=dark&perline=6)
 ![GCP](https://skillicons.dev/icons?i=gcp&theme=dark&perline=6)
 
+### Social Network
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/martin-alberto-benites-marin-13b7b32aa/)
+
 ---
 
 # Estado actual
