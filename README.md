@@ -79,6 +79,8 @@
 
 ### Cloud Computing
 ![Azure](https://skillicons.dev/icons?i=azure&theme=dark&perline=6)
+![Aws](https://skillicons.dev/icons?i=aws&theme=dark&perline=6)
+![GCP](https://skillicons.dev/icons?i=gcp&theme=dark&perline=6)
 
 ---
 
