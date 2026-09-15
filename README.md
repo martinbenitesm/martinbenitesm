@@ -49,6 +49,7 @@
 📌 BlueForge
 📌 Prototipo de IDS basado en IA y Blockchain para Industria 4.0
 📌 TerraSense IoT
+📌 Cyberguard Experience
 
 ---
 # Herramientas
