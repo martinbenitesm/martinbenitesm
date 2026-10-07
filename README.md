@@ -22,7 +22,7 @@
 
 ```bash
 ┌──(skills㉿matrix)-[~/knowledge]
-└─$ ls -la
+└─$ ls
 ```
 * 🛡️ Blue Team / SOC
 * 🔎 Threat Hunting y análisis de amenazas
@@ -38,7 +38,7 @@
 
 ```bash
 ┌──(projects㉿lab)-[~/repos]
-└─$ tree
+└─$ ls
 ```
 
 📌 UNI-SecureDroid
