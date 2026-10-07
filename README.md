@@ -45,8 +45,6 @@
 📌 BlueTeamOps
 📌 RedTeamOps
 📌 Framework de ML Híbrido para Industria 4.0
-📌 SIEM Log Monitoring & Threat Detection
-📌 BlueForge
 📌 Prototipo de IDS basado en IA y Blockchain para Industria 4.0
 📌 TerraSense IoT
 📌 Cyberguard Experience
